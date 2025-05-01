@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JBTennis
+- 👋 Hi, I am Joshua Baar
 - 👀 I’m interested in becoming a better software developer
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m a computer science student at Western Governors University
 - 💞️ I’m looking to collaborate on projects that could use me
 - 📫 How to reach me JBaar1@wgu.edu
 - 😄 Pronouns: He/Him
